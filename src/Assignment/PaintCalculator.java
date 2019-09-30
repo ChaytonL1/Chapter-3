@@ -20,9 +20,6 @@ public class PaintCalculator {
 
         wallArea(length,width,height);
 
-
-
-
     }
     public static void wallArea(int length, int width, int height)
     {
